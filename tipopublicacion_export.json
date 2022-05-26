@@ -1,0 +1,1487 @@
+[
+  {
+    "tid": [
+      {
+        "value": 12
+      }
+    ],
+    "uuid": [
+      {
+        "value": "5b7bb705-750d-4aa7-9ac7-6beb2b93a8fa"
+      }
+    ],
+    "revision_id": [
+      {
+        "value": 755
+      }
+    ],
+    "langcode": [
+      {
+        "value": "es"
+      }
+    ],
+    "vid": [
+      {
+        "target_id": "publication",
+        "target_type": "taxonomy_vocabulary",
+        "target_uuid": "52c3516f-8247-4e0a-95be-587dee0140a1"
+      }
+    ],
+    "revision_created": [
+      {
+        "value": "2019-12-19T10:11:04+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ],
+    "revision_user": [],
+    "revision_log_message": [],
+    "status": [
+      {
+        "value": true
+      }
+    ],
+    "name": [
+      {
+        "value": "Bolet\u00edn"
+      }
+    ],
+    "description": [
+      {
+        "value": null,
+        "format": null,
+        "processed": ""
+      }
+    ],
+    "weight": [
+      {
+        "value": 0
+      }
+    ],
+    "parent": [
+      {
+        "target_id": null
+      }
+    ],
+    "changed": [],
+    "default_langcode": [
+      {
+        "value": true
+      }
+    ],
+    "revision_translation_affected": [
+      {
+        "value": true
+      }
+    ],
+    "content_translation_source": [
+      {
+        "value": "und"
+      }
+    ],
+    "content_translation_outdated": [
+      {
+        "value": false
+      }
+    ],
+    "content_translation_uid": [
+      {
+        "target_id": 0,
+        "target_type": "user",
+        "target_uuid": "a04b6da1-a5cf-4745-b709-9efcd43ce40e",
+        "url": "\/en\/user\/0"
+      }
+    ],
+    "content_translation_created": [
+      {
+        "value": "2019-12-19T10:11:04+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ]
+  },
+  {
+    "tid": [
+      {
+        "value": 13
+      }
+    ],
+    "uuid": [
+      {
+        "value": "722e023b-b514-49da-80ec-ab85e4ee7fcd"
+      }
+    ],
+    "revision_id": [
+      {
+        "value": 756
+      }
+    ],
+    "langcode": [
+      {
+        "value": "es"
+      }
+    ],
+    "vid": [
+      {
+        "target_id": "publication",
+        "target_type": "taxonomy_vocabulary",
+        "target_uuid": "52c3516f-8247-4e0a-95be-587dee0140a1"
+      }
+    ],
+    "revision_created": [
+      {
+        "value": "2019-12-19T10:11:04+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ],
+    "revision_user": [],
+    "revision_log_message": [],
+    "status": [
+      {
+        "value": true
+      }
+    ],
+    "name": [
+      {
+        "value": "Informe"
+      }
+    ],
+    "description": [
+      {
+        "value": null,
+        "format": null,
+        "processed": ""
+      }
+    ],
+    "weight": [
+      {
+        "value": 0
+      }
+    ],
+    "parent": [
+      {
+        "target_id": null
+      }
+    ],
+    "changed": [],
+    "default_langcode": [
+      {
+        "value": true
+      }
+    ],
+    "revision_translation_affected": [
+      {
+        "value": true
+      }
+    ],
+    "content_translation_source": [
+      {
+        "value": "und"
+      }
+    ],
+    "content_translation_outdated": [
+      {
+        "value": false
+      }
+    ],
+    "content_translation_uid": [
+      {
+        "target_id": 0,
+        "target_type": "user",
+        "target_uuid": "a04b6da1-a5cf-4745-b709-9efcd43ce40e",
+        "url": "\/en\/user\/0"
+      }
+    ],
+    "content_translation_created": [
+      {
+        "value": "2019-12-19T10:11:04+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ]
+  },
+  {
+    "tid": [
+      {
+        "value": 14
+      }
+    ],
+    "uuid": [
+      {
+        "value": "9c489627-afcc-48d1-804c-e793a42a3009"
+      }
+    ],
+    "revision_id": [
+      {
+        "value": 757
+      }
+    ],
+    "langcode": [
+      {
+        "value": "es"
+      }
+    ],
+    "vid": [
+      {
+        "target_id": "publication",
+        "target_type": "taxonomy_vocabulary",
+        "target_uuid": "52c3516f-8247-4e0a-95be-587dee0140a1"
+      }
+    ],
+    "revision_created": [
+      {
+        "value": "2019-12-19T10:11:04+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ],
+    "revision_user": [],
+    "revision_log_message": [],
+    "status": [
+      {
+        "value": true
+      }
+    ],
+    "name": [
+      {
+        "value": "Informe anual completo"
+      }
+    ],
+    "description": [
+      {
+        "value": null,
+        "format": null,
+        "processed": ""
+      }
+    ],
+    "weight": [
+      {
+        "value": 0
+      }
+    ],
+    "parent": [
+      {
+        "target_id": null
+      }
+    ],
+    "changed": [],
+    "default_langcode": [
+      {
+        "value": true
+      }
+    ],
+    "revision_translation_affected": [
+      {
+        "value": true
+      }
+    ],
+    "content_translation_source": [
+      {
+        "value": "und"
+      }
+    ],
+    "content_translation_outdated": [
+      {
+        "value": false
+      }
+    ],
+    "content_translation_uid": [
+      {
+        "target_id": 0,
+        "target_type": "user",
+        "target_uuid": "a04b6da1-a5cf-4745-b709-9efcd43ce40e",
+        "url": "\/en\/user\/0"
+      }
+    ],
+    "content_translation_created": [
+      {
+        "value": "2019-12-19T10:11:04+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ]
+  },
+  {
+    "tid": [
+      {
+        "value": 15
+      }
+    ],
+    "uuid": [
+      {
+        "value": "2df27f23-4501-46c6-bf21-f52a18572a70"
+      }
+    ],
+    "revision_id": [
+      {
+        "value": 758
+      }
+    ],
+    "langcode": [
+      {
+        "value": "es"
+      }
+    ],
+    "vid": [
+      {
+        "target_id": "publication",
+        "target_type": "taxonomy_vocabulary",
+        "target_uuid": "52c3516f-8247-4e0a-95be-587dee0140a1"
+      }
+    ],
+    "revision_created": [
+      {
+        "value": "2019-12-19T10:11:04+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ],
+    "revision_user": [],
+    "revision_log_message": [],
+    "status": [
+      {
+        "value": true
+      }
+    ],
+    "name": [
+      {
+        "value": "Monogr\u00e1fico"
+      }
+    ],
+    "description": [
+      {
+        "value": null,
+        "format": null,
+        "processed": ""
+      }
+    ],
+    "weight": [
+      {
+        "value": 0
+      }
+    ],
+    "parent": [
+      {
+        "target_id": null
+      }
+    ],
+    "changed": [],
+    "default_langcode": [
+      {
+        "value": true
+      }
+    ],
+    "revision_translation_affected": [
+      {
+        "value": true
+      }
+    ],
+    "content_translation_source": [
+      {
+        "value": "und"
+      }
+    ],
+    "content_translation_outdated": [
+      {
+        "value": false
+      }
+    ],
+    "content_translation_uid": [
+      {
+        "target_id": 0,
+        "target_type": "user",
+        "target_uuid": "a04b6da1-a5cf-4745-b709-9efcd43ce40e",
+        "url": "\/en\/user\/0"
+      }
+    ],
+    "content_translation_created": [
+      {
+        "value": "2019-12-19T10:11:04+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ]
+  },
+  {
+    "tid": [
+      {
+        "value": 16
+      }
+    ],
+    "uuid": [
+      {
+        "value": "a09d626e-a35c-4739-a423-84fe523bfcc2"
+      }
+    ],
+    "revision_id": [
+      {
+        "value": 759
+      }
+    ],
+    "langcode": [
+      {
+        "value": "es"
+      }
+    ],
+    "vid": [
+      {
+        "target_id": "publication",
+        "target_type": "taxonomy_vocabulary",
+        "target_uuid": "52c3516f-8247-4e0a-95be-587dee0140a1"
+      }
+    ],
+    "revision_created": [
+      {
+        "value": "2019-12-19T10:11:04+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ],
+    "revision_user": [],
+    "revision_log_message": [],
+    "status": [
+      {
+        "value": true
+      }
+    ],
+    "name": [
+      {
+        "value": "Presentaci\u00f3n"
+      }
+    ],
+    "description": [
+      {
+        "value": null,
+        "format": null,
+        "processed": ""
+      }
+    ],
+    "weight": [
+      {
+        "value": 0
+      }
+    ],
+    "parent": [
+      {
+        "target_id": null
+      }
+    ],
+    "changed": [],
+    "default_langcode": [
+      {
+        "value": true
+      }
+    ],
+    "revision_translation_affected": [
+      {
+        "value": true
+      }
+    ],
+    "content_translation_source": [
+      {
+        "value": "und"
+      }
+    ],
+    "content_translation_outdated": [
+      {
+        "value": false
+      }
+    ],
+    "content_translation_uid": [
+      {
+        "target_id": 0,
+        "target_type": "user",
+        "target_uuid": "a04b6da1-a5cf-4745-b709-9efcd43ce40e",
+        "url": "\/en\/user\/0"
+      }
+    ],
+    "content_translation_created": [
+      {
+        "value": "2019-12-19T10:11:04+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ]
+  },
+  {
+    "tid": [
+      {
+        "value": 17
+      }
+    ],
+    "uuid": [
+      {
+        "value": "7b84cfb0-9e3f-4a99-bcc6-a2869399f64e"
+      }
+    ],
+    "revision_id": [
+      {
+        "value": 760
+      }
+    ],
+    "langcode": [
+      {
+        "value": "es"
+      }
+    ],
+    "vid": [
+      {
+        "target_id": "publication",
+        "target_type": "taxonomy_vocabulary",
+        "target_uuid": "52c3516f-8247-4e0a-95be-587dee0140a1"
+      }
+    ],
+    "revision_created": [
+      {
+        "value": "2019-12-19T10:11:04+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ],
+    "revision_user": [],
+    "revision_log_message": [],
+    "status": [
+      {
+        "value": true
+      }
+    ],
+    "name": [
+      {
+        "value": "Publicaci\u00f3n"
+      }
+    ],
+    "description": [
+      {
+        "value": null,
+        "format": null,
+        "processed": ""
+      }
+    ],
+    "weight": [
+      {
+        "value": 0
+      }
+    ],
+    "parent": [
+      {
+        "target_id": null
+      }
+    ],
+    "changed": [],
+    "default_langcode": [
+      {
+        "value": true
+      }
+    ],
+    "revision_translation_affected": [
+      {
+        "value": true
+      }
+    ],
+    "content_translation_source": [
+      {
+        "value": "und"
+      }
+    ],
+    "content_translation_outdated": [
+      {
+        "value": false
+      }
+    ],
+    "content_translation_uid": [
+      {
+        "target_id": 0,
+        "target_type": "user",
+        "target_uuid": "a04b6da1-a5cf-4745-b709-9efcd43ce40e",
+        "url": "\/en\/user\/0"
+      }
+    ],
+    "content_translation_created": [
+      {
+        "value": "2019-12-19T10:11:04+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ]
+  },
+  {
+    "tid": [
+      {
+        "value": 18
+      }
+    ],
+    "uuid": [
+      {
+        "value": "8c994618-a3c3-4ee2-b2f5-1496d966b171"
+      }
+    ],
+    "revision_id": [
+      {
+        "value": 761
+      }
+    ],
+    "langcode": [
+      {
+        "value": "es"
+      }
+    ],
+    "vid": [
+      {
+        "target_id": "publication",
+        "target_type": "taxonomy_vocabulary",
+        "target_uuid": "52c3516f-8247-4e0a-95be-587dee0140a1"
+      }
+    ],
+    "revision_created": [
+      {
+        "value": "2019-12-19T10:11:04+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ],
+    "revision_user": [],
+    "revision_log_message": [],
+    "status": [
+      {
+        "value": true
+      }
+    ],
+    "name": [
+      {
+        "value": "Revista Entrel\u00edneas"
+      }
+    ],
+    "description": [
+      {
+        "value": null,
+        "format": null,
+        "processed": ""
+      }
+    ],
+    "weight": [
+      {
+        "value": 0
+      }
+    ],
+    "parent": [
+      {
+        "target_id": null
+      }
+    ],
+    "changed": [],
+    "default_langcode": [
+      {
+        "value": true
+      }
+    ],
+    "revision_translation_affected": [
+      {
+        "value": true
+      }
+    ],
+    "content_translation_source": [
+      {
+        "value": "und"
+      }
+    ],
+    "content_translation_outdated": [
+      {
+        "value": false
+      }
+    ],
+    "content_translation_uid": [
+      {
+        "target_id": 0,
+        "target_type": "user",
+        "target_uuid": "a04b6da1-a5cf-4745-b709-9efcd43ce40e",
+        "url": "\/en\/user\/0"
+      }
+    ],
+    "content_translation_created": [
+      {
+        "value": "2019-12-19T10:11:04+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ]
+  },
+  {
+    "tid": [
+      {
+        "value": 414
+      }
+    ],
+    "uuid": [
+      {
+        "value": "55ba9e65-1517-4be7-9abc-7f510ba03349"
+      }
+    ],
+    "revision_id": [
+      {
+        "value": 762
+      }
+    ],
+    "langcode": [
+      {
+        "value": "es"
+      }
+    ],
+    "vid": [
+      {
+        "target_id": "publication",
+        "target_type": "taxonomy_vocabulary",
+        "target_uuid": "52c3516f-8247-4e0a-95be-587dee0140a1"
+      }
+    ],
+    "revision_created": [
+      {
+        "value": "2019-12-19T10:11:04+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ],
+    "revision_user": [],
+    "revision_log_message": [],
+    "status": [
+      {
+        "value": true
+      }
+    ],
+    "name": [
+      {
+        "value": "Infograf\u00eda"
+      }
+    ],
+    "description": [
+      {
+        "value": null,
+        "format": null,
+        "processed": ""
+      }
+    ],
+    "weight": [
+      {
+        "value": 0
+      }
+    ],
+    "parent": [
+      {
+        "target_id": null
+      }
+    ],
+    "changed": [],
+    "default_langcode": [
+      {
+        "value": true
+      }
+    ],
+    "revision_translation_affected": [
+      {
+        "value": true
+      }
+    ],
+    "content_translation_source": [
+      {
+        "value": "und"
+      }
+    ],
+    "content_translation_outdated": [
+      {
+        "value": false
+      }
+    ],
+    "content_translation_uid": [
+      {
+        "target_id": 0,
+        "target_type": "user",
+        "target_uuid": "a04b6da1-a5cf-4745-b709-9efcd43ce40e",
+        "url": "\/en\/user\/0"
+      }
+    ],
+    "content_translation_created": [
+      {
+        "value": "2019-12-19T10:11:04+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ]
+  },
+  {
+    "tid": [
+      {
+        "value": 415
+      }
+    ],
+    "uuid": [
+      {
+        "value": "c58511b1-2260-45a5-a37d-8734d30482c6"
+      }
+    ],
+    "revision_id": [
+      {
+        "value": 763
+      }
+    ],
+    "langcode": [
+      {
+        "value": "es"
+      }
+    ],
+    "vid": [
+      {
+        "target_id": "publication",
+        "target_type": "taxonomy_vocabulary",
+        "target_uuid": "52c3516f-8247-4e0a-95be-587dee0140a1"
+      }
+    ],
+    "revision_created": [
+      {
+        "value": "2019-12-19T10:11:04+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ],
+    "revision_user": [],
+    "revision_log_message": [],
+    "status": [
+      {
+        "value": true
+      }
+    ],
+    "name": [
+      {
+        "value": "Audiovisuales"
+      }
+    ],
+    "description": [
+      {
+        "value": null,
+        "format": null,
+        "processed": ""
+      }
+    ],
+    "weight": [
+      {
+        "value": 0
+      }
+    ],
+    "parent": [
+      {
+        "target_id": null
+      }
+    ],
+    "changed": [],
+    "default_langcode": [
+      {
+        "value": true
+      }
+    ],
+    "revision_translation_affected": [
+      {
+        "value": true
+      }
+    ],
+    "content_translation_source": [
+      {
+        "value": "und"
+      }
+    ],
+    "content_translation_outdated": [
+      {
+        "value": false
+      }
+    ],
+    "content_translation_uid": [
+      {
+        "target_id": 0,
+        "target_type": "user",
+        "target_uuid": "a04b6da1-a5cf-4745-b709-9efcd43ce40e",
+        "url": "\/en\/user\/0"
+      }
+    ],
+    "content_translation_created": [
+      {
+        "value": "2019-12-19T10:11:04+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ]
+  },
+  {
+    "tid": [
+      {
+        "value": 483
+      }
+    ],
+    "uuid": [
+      {
+        "value": "329a55d3-818c-41e7-8b31-526ea2bb046a"
+      }
+    ],
+    "revision_id": [
+      {
+        "value": 764
+      }
+    ],
+    "langcode": [
+      {
+        "value": "es"
+      }
+    ],
+    "vid": [
+      {
+        "target_id": "publication",
+        "target_type": "taxonomy_vocabulary",
+        "target_uuid": "52c3516f-8247-4e0a-95be-587dee0140a1"
+      }
+    ],
+    "revision_created": [
+      {
+        "value": "2019-12-19T10:11:04+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ],
+    "revision_user": [],
+    "revision_log_message": [],
+    "status": [
+      {
+        "value": true
+      }
+    ],
+    "name": [
+      {
+        "value": "Informe de cuentas"
+      }
+    ],
+    "description": [
+      {
+        "value": null,
+        "format": null,
+        "processed": ""
+      }
+    ],
+    "weight": [
+      {
+        "value": 0
+      }
+    ],
+    "parent": [
+      {
+        "target_id": null
+      }
+    ],
+    "changed": [],
+    "default_langcode": [
+      {
+        "value": true
+      }
+    ],
+    "revision_translation_affected": [
+      {
+        "value": true
+      }
+    ],
+    "content_translation_source": [
+      {
+        "value": "und"
+      }
+    ],
+    "content_translation_outdated": [
+      {
+        "value": false
+      }
+    ],
+    "content_translation_uid": [
+      {
+        "target_id": 0,
+        "target_type": "user",
+        "target_uuid": "a04b6da1-a5cf-4745-b709-9efcd43ce40e",
+        "url": "\/en\/user\/0"
+      }
+    ],
+    "content_translation_created": [
+      {
+        "value": "2019-12-19T10:11:04+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ]
+  },
+  {
+    "tid": [
+      {
+        "value": 484
+      }
+    ],
+    "uuid": [
+      {
+        "value": "14e41bd1-ea64-4e1b-8613-54f9cde530a5"
+      }
+    ],
+    "revision_id": [
+      {
+        "value": 765
+      }
+    ],
+    "langcode": [
+      {
+        "value": "es"
+      }
+    ],
+    "vid": [
+      {
+        "target_id": "publication",
+        "target_type": "taxonomy_vocabulary",
+        "target_uuid": "52c3516f-8247-4e0a-95be-587dee0140a1"
+      }
+    ],
+    "revision_created": [
+      {
+        "value": "2019-12-19T10:11:04+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ],
+    "revision_user": [],
+    "revision_log_message": [],
+    "status": [
+      {
+        "value": true
+      }
+    ],
+    "name": [
+      {
+        "value": "Informe de Resp. Corporativa"
+      }
+    ],
+    "description": [
+      {
+        "value": null,
+        "format": null,
+        "processed": ""
+      }
+    ],
+    "weight": [
+      {
+        "value": 0
+      }
+    ],
+    "parent": [
+      {
+        "target_id": null
+      }
+    ],
+    "changed": [],
+    "default_langcode": [
+      {
+        "value": true
+      }
+    ],
+    "revision_translation_affected": [
+      {
+        "value": true
+      }
+    ],
+    "content_translation_source": [
+      {
+        "value": "und"
+      }
+    ],
+    "content_translation_outdated": [
+      {
+        "value": false
+      }
+    ],
+    "content_translation_uid": [
+      {
+        "target_id": 0,
+        "target_type": "user",
+        "target_uuid": "a04b6da1-a5cf-4745-b709-9efcd43ce40e",
+        "url": "\/en\/user\/0"
+      }
+    ],
+    "content_translation_created": [
+      {
+        "value": "2019-12-19T10:11:04+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ]
+  },
+  {
+    "tid": [
+      {
+        "value": 488
+      }
+    ],
+    "uuid": [
+      {
+        "value": "2c832a6e-6217-4744-94ce-6714cab2391d"
+      }
+    ],
+    "revision_id": [
+      {
+        "value": 766
+      }
+    ],
+    "langcode": [
+      {
+        "value": "es"
+      }
+    ],
+    "vid": [
+      {
+        "target_id": "publication",
+        "target_type": "taxonomy_vocabulary",
+        "target_uuid": "52c3516f-8247-4e0a-95be-587dee0140a1"
+      }
+    ],
+    "revision_created": [
+      {
+        "value": "2019-12-19T10:11:04+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ],
+    "revision_user": [],
+    "revision_log_message": [],
+    "status": [
+      {
+        "value": true
+      }
+    ],
+    "name": [
+      {
+        "value": "Memoria ambiental"
+      }
+    ],
+    "description": [
+      {
+        "value": null,
+        "format": null,
+        "processed": ""
+      }
+    ],
+    "weight": [
+      {
+        "value": 0
+      }
+    ],
+    "parent": [
+      {
+        "target_id": null
+      }
+    ],
+    "changed": [],
+    "default_langcode": [
+      {
+        "value": true
+      }
+    ],
+    "revision_translation_affected": [
+      {
+        "value": true
+      }
+    ],
+    "content_translation_source": [
+      {
+        "value": "und"
+      }
+    ],
+    "content_translation_outdated": [
+      {
+        "value": false
+      }
+    ],
+    "content_translation_uid": [
+      {
+        "target_id": 0,
+        "target_type": "user",
+        "target_uuid": "a04b6da1-a5cf-4745-b709-9efcd43ce40e",
+        "url": "\/en\/user\/0"
+      }
+    ],
+    "content_translation_created": [
+      {
+        "value": "2019-12-19T10:11:04+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ]
+  },
+  {
+    "tid": [
+      {
+        "value": 613
+      }
+    ],
+    "uuid": [
+      {
+        "value": "bd70bd4b-ee68-4ed0-b544-5cea59cc84f6"
+      }
+    ],
+    "revision_id": [
+      {
+        "value": 767
+      }
+    ],
+    "langcode": [
+      {
+        "value": "es"
+      }
+    ],
+    "vid": [
+      {
+        "target_id": "publication",
+        "target_type": "taxonomy_vocabulary",
+        "target_uuid": "52c3516f-8247-4e0a-95be-587dee0140a1"
+      }
+    ],
+    "revision_created": [
+      {
+        "value": "2019-12-19T10:11:04+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ],
+    "revision_user": [],
+    "revision_log_message": [],
+    "status": [
+      {
+        "value": true
+      }
+    ],
+    "name": [
+      {
+        "value": "Informe de Gob. Corp."
+      }
+    ],
+    "description": [
+      {
+        "value": null,
+        "format": null,
+        "processed": ""
+      }
+    ],
+    "weight": [
+      {
+        "value": 0
+      }
+    ],
+    "parent": [
+      {
+        "target_id": null
+      }
+    ],
+    "changed": [],
+    "default_langcode": [
+      {
+        "value": true
+      }
+    ],
+    "revision_translation_affected": [
+      {
+        "value": true
+      }
+    ],
+    "content_translation_source": [
+      {
+        "value": "und"
+      }
+    ],
+    "content_translation_outdated": [
+      {
+        "value": false
+      }
+    ],
+    "content_translation_uid": [
+      {
+        "target_id": 0,
+        "target_type": "user",
+        "target_uuid": "a04b6da1-a5cf-4745-b709-9efcd43ce40e",
+        "url": "\/en\/user\/0"
+      }
+    ],
+    "content_translation_created": [
+      {
+        "value": "2019-12-19T10:11:04+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ]
+  },
+  {
+    "tid": [
+      {
+        "value": 734
+      }
+    ],
+    "uuid": [
+      {
+        "value": "5536e846-8272-4f6f-a8fd-c0ee9b47ab88"
+      }
+    ],
+    "revision_id": [
+      {
+        "value": 768
+      }
+    ],
+    "langcode": [
+      {
+        "value": "es"
+      }
+    ],
+    "vid": [
+      {
+        "target_id": "publication",
+        "target_type": "taxonomy_vocabulary",
+        "target_uuid": "52c3516f-8247-4e0a-95be-587dee0140a1"
+      }
+    ],
+    "revision_created": [
+      {
+        "value": "2019-12-19T10:11:04+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ],
+    "revision_user": [],
+    "revision_log_message": [],
+    "status": [
+      {
+        "value": true
+      }
+    ],
+    "name": [
+      {
+        "value": "Bolet\u00edn del accionista"
+      }
+    ],
+    "description": [
+      {
+        "value": null,
+        "format": null,
+        "processed": ""
+      }
+    ],
+    "weight": [
+      {
+        "value": 0
+      }
+    ],
+    "parent": [
+      {
+        "target_id": null
+      }
+    ],
+    "changed": [],
+    "default_langcode": [
+      {
+        "value": true
+      }
+    ],
+    "revision_translation_affected": [
+      {
+        "value": true
+      }
+    ],
+    "content_translation_source": [
+      {
+        "value": "und"
+      }
+    ],
+    "content_translation_outdated": [
+      {
+        "value": false
+      }
+    ],
+    "content_translation_uid": [
+      {
+        "target_id": 0,
+        "target_type": "user",
+        "target_uuid": "a04b6da1-a5cf-4745-b709-9efcd43ce40e",
+        "url": "\/en\/user\/0"
+      }
+    ],
+    "content_translation_created": [
+      {
+        "value": "2019-12-19T10:11:04+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ]
+  },
+  {
+    "tid": [
+      {
+        "value": 3018
+      }
+    ],
+    "uuid": [
+      {
+        "value": "0b370dd9-86a9-44a0-9f22-a9b389ba84d8"
+      }
+    ],
+    "revision_id": [
+      {
+        "value": 769
+      }
+    ],
+    "langcode": [
+      {
+        "value": "es"
+      }
+    ],
+    "vid": [
+      {
+        "target_id": "publication",
+        "target_type": "taxonomy_vocabulary",
+        "target_uuid": "52c3516f-8247-4e0a-95be-587dee0140a1"
+      }
+    ],
+    "revision_created": [
+      {
+        "value": "2019-12-19T10:11:04+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ],
+    "revision_user": [],
+    "revision_log_message": [],
+    "status": [
+      {
+        "value": true
+      }
+    ],
+    "name": [
+      {
+        "value": "Juego"
+      }
+    ],
+    "description": [
+      {
+        "value": null,
+        "format": null,
+        "processed": ""
+      }
+    ],
+    "weight": [
+      {
+        "value": 0
+      }
+    ],
+    "parent": [
+      {
+        "target_id": null
+      }
+    ],
+    "changed": [],
+    "default_langcode": [
+      {
+        "value": true
+      }
+    ],
+    "revision_translation_affected": [
+      {
+        "value": true
+      }
+    ],
+    "content_translation_source": [
+      {
+        "value": "und"
+      }
+    ],
+    "content_translation_outdated": [
+      {
+        "value": false
+      }
+    ],
+    "content_translation_uid": [
+      {
+        "target_id": 0,
+        "target_type": "user",
+        "target_uuid": "a04b6da1-a5cf-4745-b709-9efcd43ce40e",
+        "url": "\/en\/user\/0"
+      }
+    ],
+    "content_translation_created": [
+      {
+        "value": "2019-12-19T10:11:04+00:00",
+        "format": "Y-m-d\\TH:i:sP"
+      }
+    ]
+  }
+]
